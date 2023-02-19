@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 
 
-public class UpdatePage {
+public class UpdatePage {    // No code changes same as in dev branch
 	WebDriver driver;
 	LoginPage loginPage;
 	public UpdatePage(WebDriver driver) {
